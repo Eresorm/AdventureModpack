@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2018-10-01T13:43:51.4481399Z",
+  "lastPlayed": "2018-10-01T15:19:59.6477965Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -2363,6 +2363,120 @@
       "fileSize": 0
     },
     {
+      "folderName": "New World",
+      "fingerprint": 1489338858,
+      "fileDateHash": 252322614,
+      "sectionID": 17,
+      "individualFingerprints": [
+        189358451,
+        195234301,
+        224251200,
+        224251200,
+        312799428,
+        319335636,
+        457707055,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        500036828,
+        565964851,
+        636428117,
+        682895157,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        767009083,
+        770499991,
+        953673513,
+        965452564,
+        1018598924,
+        1047695591,
+        1082035552,
+        1143100037,
+        1200811285,
+        1363343512,
+        1501298576,
+        1590105921,
+        1803953797,
+        1898900583,
+        2228482993,
+        2264604389,
+        2336574816,
+        2572719169,
+        2572719169,
+        2643933950,
+        2694909556,
+        2769738397,
+        2769738397,
+        2769738397,
+        2769738397,
+        2769738397,
+        2769738397,
+        2769738397,
+        2769738397,
+        2769738397,
+        2769738397,
+        3094374262,
+        3123523152,
+        3123523152,
+        3134755400,
+        3145237561,
+        3184781582,
+        3216640434,
+        3255180223,
+        3319180013,
+        3383409723,
+        3429610747,
+        3582932549,
+        3639242367,
+        3717281022,
+        3860363809,
+        3897555314,
+        3980619067,
+        4004612335,
+        4058244626,
+        4058244626,
+        4066227604,
+        4196141805,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4272588933
+      ],
+      "status": 1,
+      "timestamp": "2018-10-01T14:39:47.420523Z",
+      "lastWriteTimeUtc": "2018-10-01T13:56:29.1209993Z",
+      "queryTimestamp": "2018-10-01T14:39:47.9897713Z",
+      "fileCount": 29,
+      "fileSize": 0
+    },
+    {
       "folderName": "PerfectSpawn-MC1.12.2-2.1.jar",
       "fingerprint": 1582220281,
       "fileDateHash": 2544411747,
@@ -2811,6 +2925,21 @@
       "queryTimestamp": "2018-10-01T08:53:21.9122415Z",
       "fileCount": 1,
       "fileSize": 18826
+    },
+    {
+      "folderName": "Computronics-1.12.1-1.6.5.jar",
+      "fingerprint": 1867812969,
+      "fileDateHash": 4230907501,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1867812969
+      ],
+      "status": 1,
+      "timestamp": "2018-10-01T15:12:42.0699229Z",
+      "lastWriteTimeUtc": "2018-10-01T08:39:56.3462284Z",
+      "queryTimestamp": "2018-10-01T15:12:42.5227413Z",
+      "fileCount": 1,
+      "fileSize": 1032851
     },
     {
       "folderName": "thuttech-1.12.2-6.1.5.jar",
@@ -3503,21 +3632,6 @@
       "fileSize": 49126
     },
     {
-      "folderName": "ResourceLoader-MC1.12.1-1.5.3.jar",
-      "fingerprint": 699442863,
-      "fileDateHash": 2673687840,
-      "sectionID": 6,
-      "individualFingerprints": [
-        699442863
-      ],
-      "status": 1,
-      "timestamp": "2018-10-01T08:53:20.5060013Z",
-      "lastWriteTimeUtc": "2018-07-29T19:15:04.8318922Z",
-      "queryTimestamp": "2018-10-01T08:53:21.9301944Z",
-      "fileCount": 1,
-      "fileSize": 16612
-    },
-    {
       "folderName": "SignPicture-1.12.1-2.8.1-universal.jar",
       "fingerprint": 3903789028,
       "fileDateHash": 2162935716,
@@ -3533,19 +3647,19 @@
       "fileSize": 1086045
     },
     {
-      "folderName": "MmmMmmMmmMmm-1.12-1.14.jar",
-      "fingerprint": 2806477088,
-      "fileDateHash": 1305245035,
+      "folderName": "ResourceLoader-MC1.12.1-1.5.3.jar",
+      "fingerprint": 699442863,
+      "fileDateHash": 2673687840,
       "sectionID": 6,
       "individualFingerprints": [
-        2806477088
+        699442863
       ],
       "status": 1,
-      "timestamp": "2018-10-01T08:53:20.1554083Z",
-      "lastWriteTimeUtc": "2018-07-11T16:55:18.6714221Z",
-      "queryTimestamp": "2018-10-01T08:53:21.9311913Z",
+      "timestamp": "2018-10-01T08:53:20.5060013Z",
+      "lastWriteTimeUtc": "2018-07-29T19:15:04.8318922Z",
+      "queryTimestamp": "2018-10-01T08:53:21.9301944Z",
       "fileCount": 1,
-      "fileSize": 33622
+      "fileSize": 16612
     },
     {
       "folderName": "Psi-r1.1-59.jar",
@@ -3563,6 +3677,21 @@
       "fileSize": 2177817
     },
     {
+      "folderName": "MmmMmmMmmMmm-1.12-1.14.jar",
+      "fingerprint": 2806477088,
+      "fileDateHash": 1305245035,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2806477088
+      ],
+      "status": 1,
+      "timestamp": "2018-10-01T08:53:20.1554083Z",
+      "lastWriteTimeUtc": "2018-07-11T16:55:18.6714221Z",
+      "queryTimestamp": "2018-10-01T08:53:21.9311913Z",
+      "fileCount": 1,
+      "fileSize": 33622
+    },
+    {
       "folderName": "FastWorkbench-1.12.2-1.5.3.jar",
       "fingerprint": 4139326456,
       "fileDateHash": 1795898960,
@@ -3576,21 +3705,6 @@
       "queryTimestamp": "2018-10-01T08:53:21.9311913Z",
       "fileCount": 1,
       "fileSize": 24516
-    },
-    {
-      "folderName": "badwithernocookiereloaded-1.12.2-3.1.14.jar",
-      "fingerprint": 267234478,
-      "fileDateHash": 3932325841,
-      "sectionID": 6,
-      "individualFingerprints": [
-        267234478
-      ],
-      "status": 1,
-      "timestamp": "2018-10-01T08:53:19.1109487Z",
-      "lastWriteTimeUtc": "2018-07-15T18:06:50.6866181Z",
-      "queryTimestamp": "2018-10-01T08:53:21.9321886Z",
-      "fileCount": 1,
-      "fileSize": 11034
     },
     {
       "folderName": "elulib-0.1.12.jar",
@@ -3773,21 +3887,6 @@
       "fileSize": 45611
     },
     {
-      "folderName": "justenoughdimensions-1.12.2-1.6.0-dev.20180913.002135.jar",
-      "fingerprint": 1430788180,
-      "fileDateHash": 3117239946,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1430788180
-      ],
-      "status": 1,
-      "timestamp": "2018-10-01T08:53:19.9679367Z",
-      "lastWriteTimeUtc": "2018-10-01T08:41:18.3135253Z",
-      "queryTimestamp": "2018-10-01T08:53:21.9371784Z",
-      "fileCount": 1,
-      "fileSize": 236587
-    },
-    {
       "folderName": "trumpetskeleton-1.12-1.0.2.1.jar",
       "fingerprint": 892723166,
       "fileDateHash": 1199697976,
@@ -3801,6 +3900,21 @@
       "queryTimestamp": "2018-10-01T08:53:21.9361784Z",
       "fileCount": 1,
       "fileSize": 42657
+    },
+    {
+      "folderName": "justenoughdimensions-1.12.2-1.6.0-dev.20180913.002135.jar",
+      "fingerprint": 1430788180,
+      "fileDateHash": 3117239946,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1430788180
+      ],
+      "status": 1,
+      "timestamp": "2018-10-01T08:53:19.9679367Z",
+      "lastWriteTimeUtc": "2018-10-01T08:41:18.3135253Z",
+      "queryTimestamp": "2018-10-01T08:53:21.9371784Z",
+      "fileCount": 1,
+      "fileSize": 236587
     },
     {
       "folderName": "UndergroundBiomesConstructs-1.12-1.2.1.jar",
@@ -3849,7 +3963,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2018-10-01T13:34:25.1196536Z",
+  "lastPreviousMatchUpdate": "2018-10-01T15:12:43.2762963Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -14616,64 +14730,6 @@
       "dateInstalled": "2018-07-15T18:06:19.2906503Z",
       "dateUpdated": "2018-07-15T18:06:19.2926387Z",
       "dateLastUpdateAttempted": "2018-07-15T18:06:19.2926387Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 261251,
-      "gameInstanceID": "7628f4e4-b38e-4219-a49c-72cabdf2eaa4",
-      "installedFile": {
-        "id": 2574107,
-        "fileName": "badwithernocookiereloaded-1.12.2-3.1.14.jar",
-        "fileNameOnDisk": "badwithernocookiereloaded-1.12.2-3.1.14.jar",
-        "fileDate": "2018-06-18T20:18:53.417",
-        "fileLength": 0,
-        "releaseType": 1,
-        "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2574/107/badwithernocookiereloaded-1.12.2-3.1.14.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "folderName": "META-INF",
-            "fimgerprint": 3612102649
-          },
-          {
-            "folderName": "com",
-            "fimgerprint": 765719925
-          },
-          {
-            "folderName": "assets",
-            "fimgerprint": 4280650422
-          },
-          {
-            "folderName": "mcmod.info",
-            "fimgerprint": 4204140651
-          },
-          {
-            "folderName": "pack.mcmeta",
-            "fimgerprint": 3273911401
-          }
-        ],
-        "packageFingerprint": 267234478,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "installMetadata": null
-      },
-      "dateInstalled": "2018-07-15T18:06:50.6876168Z",
-      "dateUpdated": "2018-07-15T18:06:50.690607Z",
-      "dateLastUpdateAttempted": "2018-07-15T18:06:50.690607Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
