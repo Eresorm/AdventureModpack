@@ -5,7 +5,14 @@ logs/*
 mods/*
 tv-cache/*
 betterrecords/*
+saves/*
+astralsorcery/*
+backups/*
+signpic/*
+local/*
 
+usercache.json
+usernamecache.json
 BotaniaVars.dat
 .ReAuth.cfg
 crafttweaker.log
