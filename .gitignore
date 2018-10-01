@@ -21,3 +21,8 @@ options.txt
 *.jar
 *.dll
 minecraftinstance.json
+config/InvTweaks.cfg
+config/ichunutil.cfg
+config/jei/worldSettings.cfg
+config/tlf/hidden.txt
+config/tlf/HideNames.cfg
