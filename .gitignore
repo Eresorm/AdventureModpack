@@ -1,0 +1,15 @@
+.mixin.out/*
+fonts/*
+llibrary/*
+logs/*
+mods/*
+tv-cache/*
+betterrecords/*
+
+BotaniaVars.dat
+.ReAuth.cfg
+crafttweaker.log
+options.txt
+
+*.jar
+*.dll
