@@ -2,7 +2,7 @@
 	"priority": 1000000000000,
 	"populate": {
 		"copper": {
-			"distribution": "fractal",
+			"distribution": "cave",
 			"generator": {
 				"block": {
 					"name": "minecraft:lapis_ore"
@@ -109,8 +109,6 @@
 				"cluster-size": 5
 			},
 			"cluster-count": 3,
-			"retrogen": false,
-			"biome": "all",
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {

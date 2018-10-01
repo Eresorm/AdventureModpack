@@ -111,8 +111,6 @@
 			"cluster-count": 3,
 			"retrogen": false,
 			"biome": "all",
-			"retrogen": false,
-			"biome": "all",
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [

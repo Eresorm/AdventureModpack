@@ -96,6 +96,7 @@
   "earthworks": "1.3.4.3",
   "funkylocomotion": "1.0",
   "theoneprobe": "1.4.24",
+  "prospects": "0.0.1",
   "immersiveengineering": "0.12-85",
   "psi": "r1.1-59",
   "undergroundbiomes": "1.2.1",
