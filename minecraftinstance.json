@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2018-10-01T09:59:43.7802108Z",
+  "lastPlayed": "2018-10-01T13:43:51.4481399Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1234,6 +1234,21 @@
       "fileSize": 173426
     },
     {
+      "folderName": "ExtendPolyphonyLimit-1.3-for1.8-1.12.2.jar",
+      "fingerprint": 2641173675,
+      "fileDateHash": 459734418,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2641173675
+      ],
+      "status": 1,
+      "timestamp": "2018-10-01T13:43:40.9288006Z",
+      "lastWriteTimeUtc": "2018-10-01T13:39:19.847973Z",
+      "queryTimestamp": "2018-10-01T13:43:41.4623733Z",
+      "fileCount": 1,
+      "fileSize": 2364
+    },
+    {
       "folderName": "itechoredict-1.0.0.jar",
       "fingerprint": 2482324452,
       "fileDateHash": 4014322939,
@@ -2012,6 +2027,21 @@
       "queryTimestamp": "2018-10-01T08:53:21.897282Z",
       "fileCount": 1,
       "fileSize": 584467
+    },
+    {
+      "folderName": "librarianlib-1.12.2-4.15.jar",
+      "fingerprint": 207872127,
+      "fileDateHash": 950066742,
+      "sectionID": 6,
+      "individualFingerprints": [
+        207872127
+      ],
+      "status": 1,
+      "timestamp": "2018-10-01T13:43:40.9297984Z",
+      "lastWriteTimeUtc": "2018-10-01T13:38:20.7497765Z",
+      "queryTimestamp": "2018-10-01T13:43:41.4833173Z",
+      "fileCount": 1,
+      "fileSize": 3238891
     },
     {
       "folderName": "combustfish-1.12.2-1.0.3.2.jar",
@@ -3473,21 +3503,6 @@
       "fileSize": 49126
     },
     {
-      "folderName": "SignPicture-1.12.1-2.8.1-universal.jar",
-      "fingerprint": 3903789028,
-      "fileDateHash": 2162935716,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3903789028
-      ],
-      "status": 1,
-      "timestamp": "2018-10-01T08:53:20.5279422Z",
-      "lastWriteTimeUtc": "2018-07-11T15:36:13.4440738Z",
-      "queryTimestamp": "2018-10-01T08:53:21.9301944Z",
-      "fileCount": 1,
-      "fileSize": 1086045
-    },
-    {
       "folderName": "ResourceLoader-MC1.12.1-1.5.3.jar",
       "fingerprint": 699442863,
       "fileDateHash": 2673687840,
@@ -3503,19 +3518,19 @@
       "fileSize": 16612
     },
     {
-      "folderName": "Psi-r1.1-59.jar",
-      "fingerprint": 809006079,
-      "fileDateHash": 3543522324,
+      "folderName": "SignPicture-1.12.1-2.8.1-universal.jar",
+      "fingerprint": 3903789028,
+      "fileDateHash": 2162935716,
       "sectionID": 6,
       "individualFingerprints": [
-        809006079
+        3903789028
       ],
       "status": 1,
-      "timestamp": "2018-10-01T08:53:20.442172Z",
-      "lastWriteTimeUtc": "2018-06-24T08:58:19.685927Z",
+      "timestamp": "2018-10-01T08:53:20.5279422Z",
+      "lastWriteTimeUtc": "2018-07-11T15:36:13.4440738Z",
       "queryTimestamp": "2018-10-01T08:53:21.9301944Z",
       "fileCount": 1,
-      "fileSize": 2177817
+      "fileSize": 1086045
     },
     {
       "folderName": "MmmMmmMmmMmm-1.12-1.14.jar",
@@ -3531,6 +3546,21 @@
       "queryTimestamp": "2018-10-01T08:53:21.9311913Z",
       "fileCount": 1,
       "fileSize": 33622
+    },
+    {
+      "folderName": "Psi-r1.1-59.jar",
+      "fingerprint": 809006079,
+      "fileDateHash": 3543522324,
+      "sectionID": 6,
+      "individualFingerprints": [
+        809006079
+      ],
+      "status": 1,
+      "timestamp": "2018-10-01T08:53:20.442172Z",
+      "lastWriteTimeUtc": "2018-06-24T08:58:19.685927Z",
+      "queryTimestamp": "2018-10-01T08:53:21.9301944Z",
+      "fileCount": 1,
+      "fileSize": 2177817
     },
     {
       "folderName": "FastWorkbench-1.12.2-1.5.3.jar",
@@ -3638,6 +3668,21 @@
       "fileSize": 13723
     },
     {
+      "folderName": "NaturalPledge-r3.0.2.jar",
+      "fingerprint": 3599050799,
+      "fileDateHash": 2574568844,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3599050799
+      ],
+      "status": 1,
+      "timestamp": "2018-10-01T13:43:40.9686935Z",
+      "lastWriteTimeUtc": "2018-10-01T13:38:21.8152201Z",
+      "queryTimestamp": "2018-10-01T13:43:41.5222173Z",
+      "fileCount": 1,
+      "fileSize": 1977318
+    },
+    {
       "folderName": "ExtraCells-1.12.2-2.6.1a.jar",
       "fingerprint": 2386094537,
       "fileDateHash": 3252328073,
@@ -3728,21 +3773,6 @@
       "fileSize": 45611
     },
     {
-      "folderName": "trumpetskeleton-1.12-1.0.2.1.jar",
-      "fingerprint": 892723166,
-      "fileDateHash": 1199697976,
-      "sectionID": 6,
-      "individualFingerprints": [
-        892723166
-      ],
-      "status": 1,
-      "timestamp": "2018-10-01T08:53:21.1054016Z",
-      "lastWriteTimeUtc": "2018-07-25T17:34:59.5378368Z",
-      "queryTimestamp": "2018-10-01T08:53:21.9361784Z",
-      "fileCount": 1,
-      "fileSize": 42657
-    },
-    {
       "folderName": "justenoughdimensions-1.12.2-1.6.0-dev.20180913.002135.jar",
       "fingerprint": 1430788180,
       "fileDateHash": 3117239946,
@@ -3756,6 +3786,21 @@
       "queryTimestamp": "2018-10-01T08:53:21.9371784Z",
       "fileCount": 1,
       "fileSize": 236587
+    },
+    {
+      "folderName": "trumpetskeleton-1.12-1.0.2.1.jar",
+      "fingerprint": 892723166,
+      "fileDateHash": 1199697976,
+      "sectionID": 6,
+      "individualFingerprints": [
+        892723166
+      ],
+      "status": 1,
+      "timestamp": "2018-10-01T08:53:21.1054016Z",
+      "lastWriteTimeUtc": "2018-07-25T17:34:59.5378368Z",
+      "queryTimestamp": "2018-10-01T08:53:21.9361784Z",
+      "fileCount": 1,
+      "fileSize": 42657
     },
     {
       "folderName": "UndergroundBiomesConstructs-1.12-1.2.1.jar",
@@ -18300,7 +18345,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 247704,
@@ -18373,7 +18418,80 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
+    },
+    {
+      "addonID": 278844,
+      "gameInstanceID": "7628f4e4-b38e-4219-a49c-72cabdf2eaa4",
+      "installedFile": {
+        "id": 2484408,
+        "fileName": "ExtendPolyphonyLimit-1.3",
+        "fileNameOnDisk": "ExtendPolyphonyLimit-1.3-for1.8-1.12.2.jar",
+        "fileDate": "2017-09-26T14:27:31.17",
+        "fileLength": 2364,
+        "releaseType": 1,
+        "fileStatus": 1,
+        "downloadUrl": "https://files.forgecdn.net/files/2484/408/ExtendPolyphonyLimit-1.3-for1.8-1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "jp",
+            "fimgerprint": 899949087
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 999228107
+          },
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 2464251221
+          }
+        ],
+        "packageFingerprint": 2641173675,
+        "gameVersion": [
+          "1.9.3",
+          "1.8.8",
+          "1.12",
+          "1.8.7",
+          "1.10",
+          "1.8.1",
+          "1.9.4",
+          "1.11",
+          "1.8.4",
+          "1.11.1",
+          "1.9.1",
+          "1.8.5",
+          "1.9",
+          "1.9.2",
+          "1.8.9",
+          "1.12.1",
+          "1.8.2",
+          "1.8",
+          "1.10.2",
+          "1.12.2",
+          "1.10.1",
+          "1.8.3",
+          "1.8.6",
+          "1.11.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2018-10-01T13:39:19.847973Z",
+      "dateUpdated": "2018-10-01T13:39:19.8499677Z",
+      "dateLastUpdateAttempted": "2018-10-01T13:39:19.8499677Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
     }
   ],
   "isMigrated": false,
