@@ -1,12 +1,10 @@
 {
 	"priority": 1000000000000,
 	"populate": {
-		"copper": {
+		"redstone": {
 			"distribution": "cave",
 			"generator": {
-				"block": {
-					"name": "minecraft:redstone_ore"
-				},
+				"block": "redstone_ore",
 				"material": 
 				[
 					{

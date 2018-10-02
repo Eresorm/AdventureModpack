@@ -1,12 +1,10 @@
 {
 	"priority": 1000000000000,
 	"populate": {
-		"copper": {
+		"gold": {
 			"distribution": "fractal",
 			"generator": {
-				"block": {
-					"name": "minecraft:gold_ore"
-				},
+				"block": "gold_ore",
 				"material": 
 				[
 					{

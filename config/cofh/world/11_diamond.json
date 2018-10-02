@@ -1,12 +1,10 @@
 {
 	"priority": 1000000000000,
 	"populate": {
-		"copper": {
+		"diamond": {
 			"distribution": "cave",
 			"generator": {
-				"block": {
-					"name": "minecraft:diamond_ore"
-				},
+				"block": "diamond_ore",
 				"material": 
 				[
 					{

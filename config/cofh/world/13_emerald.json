@@ -1,11 +1,11 @@
 {
 	"priority": 1000000000000,
 	"populate": {
-		"copper": {
+		"emerald": {
 			"distribution": "cave",
 			"generator": {
 				"block": {
-					"name": "minecraft:emerald_ore"
+					"name": "emerald_ore"
 				},
 				"material": 
 				[
