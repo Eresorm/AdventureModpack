@@ -1,0 +1,20 @@
+{
+    "dimensions": [
+        {
+            "dim": 112,
+            "dimensiontype":
+            {
+                "id": 112,
+                "name": "pandora",
+                "suffix": "_dim112",
+                "keeploaded": false,
+                "worldprovider": "WorldProviderSurfaceJED"
+            }
+			"biome": "Jungle",
+			"worldinfo": {},
+			"worldinfo_onetime": {
+				"generatorName": "amplified"
+			}
+        }
+    ]
+}
