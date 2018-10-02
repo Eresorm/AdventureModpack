@@ -1,0 +1,9 @@
+[
+  {
+    "internalOreName": "iceandfire:sapphire_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/custom/sapphire",
+    "lightValue": -1,
+    "oreDirectories": []
+  }
+]

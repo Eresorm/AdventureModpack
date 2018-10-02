@@ -5,5 +5,12 @@
     "overlay": "undergroundbiomes:blocks/overlays/custom/cinnabar",
     "lightValue": -1,
     "oreDirectories": []
+  },
+  {
+    "internalOreName": "thaumcraft:ore_amber",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/custom/amber",
+    "lightValue": -1,
+    "oreDirectories": []
   }
 ]
