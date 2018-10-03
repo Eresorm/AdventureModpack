@@ -22,7 +22,7 @@
 			</planet>
 		</planet>
 		<planet name="If Mortalis" DIMID="5">
-			<isKnown>false</isKnown>
+			<isKnown>true</isKnown>
 			<GasGiant>true</GasGiant>
 			<gas>nitrogen</gas>
 			<gas>hydrogen</gas>
@@ -35,7 +35,7 @@
 			<rotationalPeriod>24000</rotationalPeriod>
 			<atmosphereDensity>188</atmosphereDensity>
 			<planet name="Pandora" DIMID="112" dimMapping="">
-				<isKnown>false</isKnown>
+				<isKnown>true</isKnown>
 				<fogColor>1.0,1.0,1.0</fogColor>
 				<skyColor>1.0,1.0,1.0</skyColor>
 				<gravitationalMultiplier>16</gravitationalMultiplier>
@@ -46,7 +46,7 @@
 			</planet>
 		</planet>
 		<planet name="Desiderium Jennarium" DIMID="111" dimMapping="">
-			<isKnown>false</isKnown>
+			<isKnown>true</isKnown>
 			<hasRings>true</hasRings>
 			<ringColor>0.4,0.4,0.7</ringColor>
 			<fogColor>1.0,1.0,1.0</fogColor>

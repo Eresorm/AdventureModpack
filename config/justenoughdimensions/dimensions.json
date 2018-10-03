@@ -1,20 +1,22 @@
 {
-    "dimensions": [
-        {
-            "dim": 112,
-            "dimensiontype":
-            {
-                "id": 112,
-                "name": "pandora",
-                "suffix": "_dim112",
-                "keeploaded": false,
-                "worldprovider": "WorldProviderSurfaceJED"
-            }
-			"biome": "Jungle",
-			"worldinfo": {},
-			"worldinfo_onetime": {
-				"generatorName": "amplified"
-			}
-        }
-    ]
+  "config_version": {
+    "id": "__default",
+    "version": 0
+  },
+  "dimensions": [
+    {
+      "dim": 112,
+	  "biome": "Jungle",
+      "dimensiontype": {
+        "id": 6,
+        "name": "Real Name Dim 6",
+        "suffix": "_dim6",
+        "keeploaded": false,
+        "worldprovider": "WorldProviderSurfaceJED"
+      },
+      "worldinfo_onetime": {
+        "generatorName": "AMPLIFIED"
+      }
+    }
+  ]
 }
