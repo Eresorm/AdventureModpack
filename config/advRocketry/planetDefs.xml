@@ -41,7 +41,7 @@
 				<gravitationalMultiplier>16</gravitationalMultiplier>
 				<orbitalDistance>150</orbitalDistance>
 				<orbitalPhi>14</orbitalPhi>
-				<rotationalPeriod>128000</rotationalPeriod>
+				<rotationalPeriod>12000</rotationalPeriod>
 				<atmosphereDensity>80</atmosphereDensity>
 			</planet>
 		</planet>
