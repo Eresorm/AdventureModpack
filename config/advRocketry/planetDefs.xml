@@ -45,7 +45,7 @@
 				<atmosphereDensity>80</atmosphereDensity>
 			</planet>
 		</planet>
-		<planet name="Desiderium Jennarium" DIMID="110" dimMapping="">
+		<planet name="Desiderium Jennarium" DIMID="113" dimMapping="">
 			<isKnown>true</isKnown>
 			<hasRings>true</hasRings>
 			<ringColor>0.4,0.4,0.7</ringColor>
