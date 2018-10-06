@@ -38,7 +38,7 @@
 				<isKnown>true</isKnown>
 				<fogColor>1.0,1.0,1.0</fogColor>
 				<skyColor>1.0,1.0,1.0</skyColor>
-				<gravitationalMultiplier>16</gravitationalMultiplier>
+				<gravitationalMultiplier>50</gravitationalMultiplier>
 				<orbitalDistance>150</orbitalDistance>
 				<orbitalPhi>14</orbitalPhi>
 				<rotationalPeriod>12000</rotationalPeriod>
