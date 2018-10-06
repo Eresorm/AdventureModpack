@@ -1,0 +1,124 @@
+{
+	"priority": 1000000000000,
+	"populate": {
+		"adr_iridium": {
+			"distribution": "cave",
+			"generator": {
+				"block": {
+					"name": "libvulpes:ore0",
+					"metadata": 10
+				},
+				"material": 
+				[
+					{
+						"name": "undergroundbiomes:sedimentary_stone",
+						"metadata": 0
+					},
+					{
+						"name": "undergroundbiomes:sedimentary_stone",
+						"metadata": 1
+					},
+					{
+						"name": "undergroundbiomes:sedimentary_stone",
+						"metadata": 2
+					},
+					{
+						"name": "undergroundbiomes:sedimentary_stone",
+						"metadata": 3
+					},
+					{
+						"name": "undergroundbiomes:sedimentary_stone",
+						"metadata": 4
+					},
+					{
+						"name": "undergroundbiomes:sedimentary_stone",
+						"metadata": 5
+					},
+					{
+						"name": "undergroundbiomes:sedimentary_stone",
+						"metadata": 6
+					},
+					{
+						"name": "undergroundbiomes:sedimentary_stone",
+						"metadata": 7
+					},
+					{
+						"name": "undergroundbiomes:igneous_stone",
+						"metadata": 0
+					},
+					{
+						"name": "undergroundbiomes:igneous_stone",
+						"metadata": 1
+					},
+					{
+						"name": "undergroundbiomes:igneous_stone",
+						"metadata": 2
+					},
+					{
+						"name": "undergroundbiomes:igneous_stone",
+						"metadata": 3
+					},
+					{
+						"name": "undergroundbiomes:igneous_stone",
+						"metadata": 4
+					},
+					{
+						"name": "undergroundbiomes:igneous_stone",
+						"metadata": 5
+					},
+					{
+						"name": "undergroundbiomes:igneous_stone",
+						"metadata": 6
+					},
+					{
+						"name": "undergroundbiomes:igneous_stone",
+						"metadata": 7
+					},
+					{
+						"name": "undergroundbiomes:metamorphic_stone",
+						"metadata": 0
+					},
+					{
+						"name": "undergroundbiomes:metamorphic_stone",
+						"metadata": 1
+					},
+					{
+						"name": "undergroundbiomes:metamorphic_stone",
+						"metadata": 2
+					},
+					{
+						"name": "undergroundbiomes:metamorphic_stone",
+						"metadata": 3
+					},
+					{
+						"name": "undergroundbiomes:metamorphic_stone",
+						"metadata": 4
+					},
+					{
+						"name": "undergroundbiomes:metamorphic_stone",
+						"metadata": 5
+					},
+					{
+						"name": "undergroundbiomes:metamorphic_stone",
+						"metadata": 6
+					},
+					{
+						"name": "undergroundbiomes:metamorphic_stone",
+						"metadata": 7
+					},
+					"minecraft:stone"
+				],
+				"cluster-size": 9
+			},
+			"cluster-count": 15,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					3
+				]
+			}
+		}
+	}
+}

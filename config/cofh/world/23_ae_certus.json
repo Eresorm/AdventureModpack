@@ -1,0 +1,55 @@
+{
+	"priority": 1000000000000,
+	"populate": 
+	{
+		"ae_certus": {
+			"distribution": "surface",
+			"follow-terrain": "true",
+			"generator": {
+				"type": "stalagmite",
+				"block": [
+					{
+						"name": "advancedrocketry:moonturf",
+						"weight": 60
+					},
+					{
+						"name": "advancedrocketry:moonturf_dark",
+						"weight": 20
+					},
+					{
+						"name": "appliedenergistics2:quartz_ore",
+						"metadata": 0,
+						"weight": 15
+					},
+					{
+						"name": "appliedenergistics2:charged_quartz_ore",
+						"weight": 5
+					}
+				],
+				"material": [
+					"minecraft:stone",
+					"advancedrocketry:moonturf",
+					"advancedrocketry:moonturf_dark"
+				],
+				"gen-body": "minecraft:air",
+				"smooth": false,
+				"fat": true,
+				"min-height": 10,
+				"height-variance": 6,
+				"height-mod": 3,
+				"gen-size": 0,
+				"size-variance": 2
+			},
+			"cluster-count": 1,
+			"chunk-chance": 4,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					3
+				]
+			}
+		}
+	}
+}
