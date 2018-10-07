@@ -1,0 +1,9 @@
+[
+  {
+    "internalOreName": "deepresonance:resonating_ore",
+    "meta": 0,
+    "overlay": "undergroundbiomes:blocks/overlays/custom/ore2_dark",
+    "lightValue": -1,
+    "oreDirectories": []
+  }
+]
