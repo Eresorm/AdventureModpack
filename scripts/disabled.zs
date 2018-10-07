@@ -13,3 +13,5 @@ recipes.remove(<torchmaster:feral_flare_lantern>);
 mods.astralsorcery.Altar.removeAltarRecipe(<astralsorcery:blockcelestialgateway>, 1);
 <astralsorcery:blockcelestialgateway>.addTooltip("Disabled");
 
+recipes.remove(<immersiveengineering:metal_device1:13>);
+<immersiveengineering:metal_device1:13>.addTooltip("Disabled");
