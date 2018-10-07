@@ -2,7 +2,7 @@
 	"priority": 1000000000000,
 	"populate": {
 		"tin": {
-			"distribution": "uniform",
+			"distribution": "cave",
 			"generator": {
 				"block": {
 					"name": "mekanism:oreblock",
@@ -107,16 +107,9 @@
 						"metadata": 7
 					}
 				],
-				"cluster-size": 800
+				"cluster-size": 8
 			},
-			"cluster-count": 1,
-			"chunk-chance": 15,
-			"min-height": 30,
-			"max-height": 200,
-			"vein-height": 64,
-			"vein-diameter": 65,
-			"vertical-density": 80,
-			"horizontal-density": 80,
+			"cluster-count": 5,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {

@@ -2,7 +2,7 @@
 	"priority": 1000000000000,
 	"populate": {
 		"copper": {
-			"distribution": "fractal",
+			"distribution": "cave",
 			"generator": {
 				"block": {
 					"name": "immersiveengineering:ore",
@@ -107,17 +107,9 @@
 						"metadata": 7
 					}
 				],
-				"type": "large-vein",
-				"cluster-size": 1000
+				"cluster-size": 4
 			},
-			"cluster-count": 1,
-			"chunk-chance": 15,
-			"min-height": 0,
-			"max-height": 80,
-			"vein-height": 64,
-			"vein-diameter": 65,
-			"vertical-density": 80,
-			"horizontal-density": 80,
+			"cluster-count": 11,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {

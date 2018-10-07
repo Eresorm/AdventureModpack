@@ -2,7 +2,7 @@
 	"priority": 1000000000000,
 	"populate": {
 		"coal": {
-			"distribution": "fractal",
+			"distribution": "cave",
 			"generator": {
 				"block": "coal_ore",
 				"material": 
@@ -104,17 +104,9 @@
 						"metadata": 7
 					}
 				],
-				"type": "large-vein",
-				"cluster-size": 1000
+				"cluster-size": 8
 			},
-			"cluster-count": 1,
-			"chunk-chance": 15,
-			"min-height": 0,
-			"max-height": 200,
-			"vein-height": 64,
-			"vein-diameter": 65,
-			"vertical-density": 80,
-			"horizontal-density": 80,
+			"cluster-count": 16,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {

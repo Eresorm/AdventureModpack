@@ -2,9 +2,8 @@
 	"priority": 1000000000000,
 	"populate": {
 		"apatite": {
-			"distribution": "fractal",
+			"distribution": "cave",
 			"generator": {
-				"block": "forestry:resources",
 				"block": {
 					"name": "forestry:resources",
 					"metadata": 0
@@ -108,17 +107,9 @@
 						"metadata": 7
 					}
 				],
-				"type": "large-vein",
-				"cluster-size": 1000
+				"cluster-size": 7
 			},
-			"cluster-count": 8,
-			"chunk-chance": 8,
-			"min-height": 0,
-			"max-height": 200,
-			"vein-height": 64,
-			"vein-diameter": 65,
-			"vertical-density": 80,
-			"horizontal-density": 80,
+			"cluster-count": 3,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {

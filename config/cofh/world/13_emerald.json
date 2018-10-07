@@ -106,7 +106,7 @@
 						"metadata": 7
 					}
 				],
-				"cluster-size": 3
+				"cluster-size": 2
 			},
 			"cluster-count": 2,
 			"retrogen": false,

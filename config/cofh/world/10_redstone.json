@@ -104,9 +104,9 @@
 						"metadata": 7
 					}
 				],
-				"cluster-size": 10
+				"cluster-size": 5
 			},
-			"cluster-count": 5,
+			"cluster-count": 2,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {

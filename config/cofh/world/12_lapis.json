@@ -106,7 +106,7 @@
 				],
 				"cluster-size": 5
 			},
-			"cluster-count": 3,
+			"cluster-count": 1,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
